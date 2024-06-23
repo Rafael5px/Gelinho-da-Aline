@@ -10,7 +10,7 @@ Sabores:
   
 <li>Chocolate 10,00$</li>
 <li>nutella 47,10</li>
-<li>Leite ninho 64,55</li>
+<li>Leite ninho 64,55</li>.
 
 número de telefone:(14) 98812-4287
 
