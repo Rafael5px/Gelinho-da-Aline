@@ -20,11 +20,8 @@ https://www.youtube.com/@Rafael4px1
 <select class="form-control mt-1">
   <option disabled="" selected+>Informe o seu inderesso e numero que a gente vai até você</option>
 
-  # Opções de pagamento.
 
-  
-  <li>pix</li>
-  <li>Dinhero</li>
+
   
   
   
