@@ -20,8 +20,17 @@
 
 https://www.youtube.com/@Rafael4px1
 
-<select class="form-control mt-1">
-  <option disabled="" selected+>Informe o seu inderesso e numero que a gente vai até você.</option>
+Informe o seu inderesso e numero que a gente vai até você.
+
+
+# Formas de Pagamento:
+
+<li>Pix</li>
+<li>Dinheiro</li>
+<li>Débito</li>
+<li>Crédito</li>
+<li>Picpay</li>
+  
 
 
 
