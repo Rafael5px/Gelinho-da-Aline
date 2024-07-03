@@ -37,6 +37,7 @@ Informe o seu inderesso e numero que a gente vai até você.
 <li>Crédito</li>
 <li>Picpay</li>
 <li>Nubank</li>
+<li>Bradesco</li>
 
 
 
