@@ -1,4 +1,8 @@
-# Gelinho-da-Aline
+# Gelinho-da-Aline.
+
+<div class="cointeiner mt-5">
+Olá seja Bem-Vindo ao os Gelinhos-da-Aline.
+<p>*Todos os tipos de sabores aqui.*</p>
 
   Sabores:
 
@@ -23,10 +27,12 @@
 <li>Milho Latinho 19,15$</li>
 
  # Informações.
+ 
+<i></i>
 <div>número de telefone:+55 (14)  98812-4287.<div>
 <div>número de telefone:+55 (14)  99875-1196</div>
 https://www.youtube.com/@Rafael4px1
-
+<i></i>
 Informe o seu inderesso e numero que a gente vai até você.
 
 # Formas de Pagamento:
@@ -38,6 +44,5 @@ Informe o seu inderesso e numero que a gente vai até você.
 <li>Picpay</li>
 <li>Nubank</li>
 <li>Bradesco</li>
-
 
 
