@@ -45,3 +45,13 @@ Informe o seu inderesso e numero que a gente vai até você.
 <li>Bradesco</li>
 
 
+# Opções de Gelinhos.
+
+
+<ol type="1">
+  
+  <li>Grande</li>
+  <li>Médio</li>
+  <li>Pequeno</li>
+  
+</ol>
