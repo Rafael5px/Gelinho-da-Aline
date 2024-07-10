@@ -32,7 +32,7 @@ Olá seja Bem-Vindo ao os Gelinhos-da-Aline.
 <div>número de telefone:+55 (14)  99875-1196</div>
 https://www.youtube.com/@Rafael4px1
 
-Informe o seu inderesso e numero que a gente vai até você.
+Informe o seu endereço e numero que a gente vai até você.
 
 # Formas de Pagamento:
 
