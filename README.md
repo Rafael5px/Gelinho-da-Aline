@@ -1,6 +1,6 @@
 # Gelinho-da-Aline.
 
-<div class="cointeiner mt-5">
+<p><div class="cointeiner mt-5"><p>
 Olá seja Bem-Vindo ao os Gelinhos-da-Aline.
 <p>*Todos os tipos de sabores aqui.*</p>
 
@@ -55,3 +55,4 @@ Informe o seu endereço e numero que a gente vai até você.
   <li>Pequeno</li>
   
 </ol>
+
