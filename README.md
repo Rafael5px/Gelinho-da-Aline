@@ -14,17 +14,29 @@ Olá seja Bem-Vindo ao os Gelinhos-da-Aline.
   <li>menta</li>
   <li>uva</li>
   <li>milho latinho</li>
+  <li>Chocolate Trufado</li>
+  <li>Coco cremoso</li>
+  <li>Ninho com Morango</li>
+  <li>Ninho com Nutella</li>
+  <li>Pudim</li>
+  <li>Mini Pudim - Tradicional</li>
 <ul>
   
 # Preços:
 
-<li>Chocolate 10,00$</li>
-<li>nutella 15,10$</li>
-<li>Leite ninho 14,55$</li>
-<li>Coco 12,23$</li>
-<li>Menta 17,90$</li>
-<li>Uva 7,87$</li>
-<li>Milho Latinho 19,15$</li>
+<li>Chocolate 7,50$</li>
+<li>nutella 9,00$</li>
+<li>Leite ninho 10,00$</li>
+<li>Coco 7,00$</li>
+<li>Menta 9,00$</li>
+<li>Uva 7,00$</li>
+<li>Milho Latinho 5,00$</li>
+<li>Chocolate Trufado 9,00$</li>
+<li>Coco Cremoso 9,00$</li>
+<li>Ninho com morango 9,00$</li>4
+<li>Ninho com Nutella 9,00$</li>
+<li>Pudim 9,00$</li>
+<li>Mini Pudim - Tradicional 8,00$</li>
 
  # Informações.
  
