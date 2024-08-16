@@ -33,7 +33,7 @@ Olá seja Bem-Vindo ao os Gelinhos-da-Aline.
 <li>Milho Latinho 5,00$</li>
 <li>Chocolate Trufado 9,00$</li>
 <li>Coco Cremoso 9,00$</li>
-<li>Ninho com morango 9,00$</li>4
+<li>Ninho com morango 9,00$</li>
 <li>Ninho com Nutella 9,00$</li>
 <li>Pudim 9,00$</li>
 <li>Mini Pudim - Tradicional 8,00$</li>
