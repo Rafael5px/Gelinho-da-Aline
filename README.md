@@ -64,6 +64,21 @@ https://instadelivery.com.br/shgelinhos
 
 ![image](https://github.com/user-attachments/assets/a57a20d3-7fa7-4945-a011-dbee9f58875e)
 
+![Imagem do WhatsApp de 2024-08-15 à(s) 17 52 04_27a4cc6d](https://github.com/user-attachments/assets/9c89e98e-3c36-412d-b5e7-a88b4d4aee06)
+
+![Imagem do WhatsApp de 2024-08-15 à(s) 17 53 32_cab0cdc9](https://github.com/user-attachments/assets/51884518-d92c-4c30-be77-3eee78d634fd)
+
+![Imagem do WhatsApp de 2024-08-15 à(s) 17 53 32_ac2a60eb](https://github.com/user-attachments/assets/80595738-8fca-4d3b-9d88-4c509e26460a)
+
+![Imagem do WhatsApp de 2024-08-15 à(s) 17 53 32_ede8c1bd](https://github.com/user-attachments/assets/a26142b3-bdee-480b-8653-580e34942dbf)
+
+![Imagem do WhatsApp de 2024-08-15 à(s) 17 53 33_8b1ca8d0](https://github.com/user-attachments/assets/46a62d78-fc1c-469a-8417-edd4522120c9)
+
+![Imagem do WhatsApp de 2024-08-15 à(s) 17 53 33_8877cdce](https://github.com/user-attachments/assets/ae16b6e4-6114-42c8-9c81-aff7e482ac0a)
+
+![Imagem do WhatsApp de 2024-08-15 à(s) 17 53 33_f5ad2017](https://github.com/user-attachments/assets/554aa153-019e-4944-a694-4d95e2222eb0)
+
+
 Compartilha o site com os seu amigos e colegas.
 
 
