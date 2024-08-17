@@ -70,9 +70,6 @@ Informe o seu endereço e numero que a gente vai até você.
 # Descrição
 https://instadelivery.com.br/shgelinhos
 
-![Imagem do WhatsApp de 2024-08-09 à(s) 21 12 44_ba03aa2b](https://github.com/user-attachments/assets/f44a6a72-c1e2-48be-9ff1-7295cc6d7613)
-
-![image](https://github.com/user-attachments/assets/487ab66b-ce5f-479d-be61-6ad2f53c7ba8)
 
 ![image](https://github.com/user-attachments/assets/a57a20d3-7fa7-4945-a011-dbee9f58875e)
 
